@@ -1,0 +1,16 @@
+{
+  "name": "testlinq",
+  "version": "1.0.0",
+  "description": "test Linq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "linq": "^3.2.0",
+    "rxjs": "^6.5.2"
+  }
+}
